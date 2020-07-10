@@ -1,1 +1,11 @@
-An attempt to learn flask from the O'Reilly book
+Some notes on python virtual env
+
+sudo apt-get install python3-venv 
+
+python3 -m venv flaskcode
+
+source flaskcode/bin/activate
+
+do your stuff (pip install flask) 
+
+exit 
